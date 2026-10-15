@@ -2,4 +2,5 @@
 
 This is Git for team session in CS100.
 
-Hi I am Bua. Hi I'm V.
+
+Hi I am Bua Sankaew. Hi I'm V.
